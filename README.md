@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as **AI/ML Developer at Persistent Systems, Pune**
 
-- 👀 I'm Intrested in Data Science
+- 👀 I'm Intrested in **Data Science**
 
 - 💬 Ask me about **Machine Learning, NLP**
 
