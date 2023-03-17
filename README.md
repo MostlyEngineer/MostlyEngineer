@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-- 🔭 I’m currently working as **AI/ML Developer at Persistent Systems, Pune**
+- 🔭 I’m currently working as **AI/ML Engineer at Rahi Systems, Pune**
 
 - 👀 I'm Intrested in **Data Science**
 
 - 💬 Ask me about **Machine Learning, NLP**
 
-- 🌱 I’m currently learning **AIOPS**
+- 🌱 I’m currently learning **TensorFlow**
 
 - 💞 I'm Looking to collaborate on complete automated CI-CD Pipeline Data Science Project
 
