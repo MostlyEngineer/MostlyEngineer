@@ -5,7 +5,9 @@
 - 🔭 I’m currently working as **AI/ML Engineer at Rahi Systems, Pune**
 
 - 👀 I'm Intrested in **Data Science**
-
+  
+- 🥇 I'm Certified **Google Professional Machine Learning Engineer**
+ 
 - 💬 Ask me about **Machine Learning, NLP**
 
 - 🌱 I’m currently learning **TensorFlow**
