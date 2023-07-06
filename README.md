@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
-<img align="right" alt="Coding" width="150" src="https://miro.medium.com/v2/resize:fit:800/format:webp/1*qzY8QpGI2hnWeMAQmk8oLw.png">
+<img align="right" alt="Coding" width="150" src="https://storage.googleapis.com/support-kms-prod/kt7P69itIvJMCo4qu7UogfWk48eSYsLfjalO">
 
 - 🔭 I’m currently working as **AI/ML Engineer at Rahi Systems, Pune**
 
