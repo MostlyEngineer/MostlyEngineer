@@ -1,8 +1,12 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/03/04/68/52/360_F_304685223_ttVGVAkC5JlfgEOTO8KYbN4tjnRqM715.jpg)
-<h1 align="center">Hi 👋, I'm Swapnil</h1>
+<h1 align="center">Hi <img align="center" alt="Coding" width="70" src="https://media.tenor.com/oqXocliEYAMAAAAi/hello-yellow.gif">, I'm Swapnil</h1>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 <img align="right" alt="Coding" width="150" src="https://storage.googleapis.com/support-kms-prod/kt7P69itIvJMCo4qu7UogfWk48eSYsLfjalO">
+
+
+
 
 - 🔭 I’m currently working as **AI/ML Engineer at Rahi Systems, Pune**
 
