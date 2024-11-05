@@ -8,13 +8,13 @@
 
 
 
-- 🔭 I’m currently working as **AI/ML Engineer at Rahi Systems, Pune**
+- 🔭 I’m currently working as **Data Scientist at Wesco**
 
 - 🥇 I'm Certified **Google Professional Machine Learning Engineer**
   
 - 👀 I'm Intrested in **Data Science**
  
-- 💬 Ask me about **Machine Learning, NLP**
+- 💬 Ask me about **Machine Learning, NLP, Gen AI**
 
 - 💞 I'm Looking to collaborate on complete automated CI-CD Pipeline Data Science Project
 
